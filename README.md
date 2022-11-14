@@ -1,2 +1,2 @@
 # SolidityBootcamp
-Encode Solidity Bootcamp Lessons
+Encode's ETHDenver 8wk Solidity Bootcamp
