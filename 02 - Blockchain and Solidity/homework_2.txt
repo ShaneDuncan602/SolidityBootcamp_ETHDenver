@@ -1,0 +1,25 @@
+Homework 2
+1. Using a blockchain explorer, have a look at the following transactions, what do they do?
+  1. 0x0ec3f2488a93839524add10ea229e773f6bc891b4eb4794c3337d4495263790b
+    This was the huge attack that drained TheDAO
+  2. 0x4fc1580e7f66c58b7c26881cce0aab9c3509afe6e507527f30566fbf8039bcd0
+    The transaction that created UniswapV2.
+  3. 0x552bc0322d78c5648c5efa21d2daa2d0f14901ad4b15531f1ab5bbe5674de34f
+    This was the transaction that transferred over 600 million from the Poly Network
+  4. 0x7a026bf79b36580bf7ef174711a3de823ff3c93c65304c3acc0323c77d62d0ed
+    Returned the funds from the Poly Network thief back to Dai
+  5. 0x814e6a21c8eb34b62a05c1d0b14ee932873c62ef3c8575dc49bcf12004714eda
+    Another big poly network hack.
+    
+2. What is the largest account balance you can find ?
+  0x00000000219ab540356cBB839Cbe05303d7705Fa, it's the beacon contract depositor, 14m eth
+  
+3. What is special about these accounts :
+  1. 0x1db3439a222c519ab44bb1144fc28167b4fa6ee6
+    An address that has deposited ETH into the Beacon Chain to become a validator.
+  2. 0x000000000000000000000000000000000000dEaD
+    This is the address you send eth to for burning.
+  
+4. Using remix add this contract as a source file
+  1. Compile the contract
+  2. Deploy the contract to the Remix VM environment
