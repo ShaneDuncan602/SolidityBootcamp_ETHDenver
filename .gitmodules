@@ -1,3 +1,9 @@
 [submodule "016 - NFT Storage/lib/forge-std"]
 	path = 016 - NFT Storage/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "16 - NFT Storage/lib/forge-std"]
+	path = 16 - NFT Storage/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "16 - NFT Storage/lib/openzeppelin-contracts"]
+	path = 16 - NFT Storage/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
