@@ -1,0 +1,6 @@
+Homework 18
+1. See if you canlisten to the mempool using ether.js
+2. Can you find a way to filter your mempool listener and get only uniswap transactions
+3. How might you mitigate MEV & front running if you were building your own Dapp?
+    By using Flashbots Protect Rpc 
+4. Have a look at the example sandwich bot and see how it works: https://github.com/libevm/subway
